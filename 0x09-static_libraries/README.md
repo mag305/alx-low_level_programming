@@ -1,1 +1,1 @@
-README
+This is about Static libraries 
